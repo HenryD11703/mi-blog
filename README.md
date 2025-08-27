@@ -137,7 +137,7 @@ http://localhost:3000
 
 --- 
 
-## 📷 Screenshots (opcional)
+## 📷 Screenshots
 
 * Home / lista de posts:
 ![home](docs/image.png)
